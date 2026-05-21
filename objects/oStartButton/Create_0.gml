@@ -1,0 +1,2 @@
+text = "Start";
+play = true

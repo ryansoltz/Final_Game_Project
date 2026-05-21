@@ -1,0 +1,1 @@
+global.waves = audio_play_sound(sfxWaves, 7, 1);
