@@ -1,3 +1,3 @@
 ## Overview
 
-These are the project files for my final game project in my DIMA 246 Game Design course at St. Thomas. 
+These are the project files for my final game project in my DIMA 246 Game Design course at St. Thomas. They contain the GML code as well as the various art/sound assets that make up the game. The course went through the fundementals of game design and the various aspects of the game design process. The goal of the final project was to create a polished game from the perspective of a game designer. This project gave me experience with all aspects of the game design process: brainstorming, designing, prototyping, coding, creating design documents, and ultimately creating a finished game. A link to a downloadable verion of the final project is [(here)](https://ryansoltz.itch.io/diveandconquer). I am very proud of how this project turned out, it gave me valuable experience with coding using GML, as well as designing a game from the ground up.
